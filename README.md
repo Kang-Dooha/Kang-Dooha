@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**kokodo3/kokodo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kang-Dooha/Kang-Dooha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kokodo3)](https://solved.ac/kokodo3)
+[![Solved.ac프로필]
+(http://mazassumnida.wtf/api/generate_badge?boj=kokodo3)](https://solved.ac/kokodo3)
